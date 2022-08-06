@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day 1: August 6, Saturday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:**
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Added a "Kitchen Sink" page of html elements to my next.js blog site.  Took me a minute to get the html (copied from [this repo](https://github.com/dbox/html5-kitchen-sink)) all updated to jsx.  There's still a couple little chunks of html I commented out to fix later (not a priority, but I will add it to the blogs issues so I don't forget).
 
-**Link to work:** [Calculator App](http://www.example.com)
+Also, removed some of the placeholder text for some of the other blog post topics.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
+I'm excited to finish setting up the blog styles and start using the blog to document what I'm working on or learning about.  Eventually I want to add in sorting and a search function as well.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Dirty Carrots - Kitchen Sink CSS Style Page](https://www.dirtycarrots.dev/posts/kitchen-sink-styles)
+

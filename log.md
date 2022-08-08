@@ -27,3 +27,20 @@ Basically same as yesterday, ready to be done with styles and get more into the 
 **Link(s) to work**
 1. [Dirty Carrots - Kitchen Sink CSS Style Page](https://www.dirtycarrots.dev/posts/kitchen-sink-styles)
 
+
+## Day 3: August 8, Monday
+
+**Today's Progress:**
+
+I've been so anxious about Javascript, I decided to commit to completing the "JavaScript Algorithms and Data Structures" course on freeCodeCamp.  So far today I am 55% into the Basic Javascript section.  I also started back up with the "Front End Development Libraries Certification" and am working on the React section
+
+**Thoughts** 
+It's pretty much review still, but I'm hoping the further along I get the more I'll get into the stuff that makes me nervous.  I get so frustrated because I do have working experience with JS, React, Sanity, QROQ, and GraphQL, but I have these big gaps in my knowledge that make things really hard and frustrating sometime.  Hopefully by spending the time really getting a foundation under me I will be able to accomplish more. 
+
+Also maybe having some of the certifications will help stregthen my portfolio since I don't have a CS degree.
+
+**Link(s) to work**
+1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+2. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+

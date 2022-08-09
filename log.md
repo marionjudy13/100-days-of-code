@@ -44,3 +44,15 @@ Also maybe having some of the certifications will help stregthen my portfolio si
 
 2. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
+
+## Day 4: August 9, Tuesday
+
+**Today's Progress:**
+Completed the first section of JavaScript Algorithms and Data Structures, "Basic Javascript"
+
+**Thoughts** 
+I mostly understood and worked through this section of the course with ease... Until I hit RECURSION.  Holy moly.  I read the articles associated with those lessons, and while it makes sense in the articles I think it will take a bit of practice for my brain to understand it in the wild.  
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+

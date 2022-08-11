@@ -69,3 +69,15 @@ Today was a little rough as it was the first day of 10th grade for my daughter, 
 1. [Survey Form](https://codepen.io/DirtyCarrots/pen/rNdZNNO)
 2. [Toggle Button](https://codepen.io/DirtyCarrots/pen/rNdZBmg)
 
+
+## Day 6: August 11, Thursday
+
+**Today's Progress:**
+Worked on the ES6 part of JavaScript Algorithms and Data Structures.
+
+**Thoughts** 
+Was pretty familiar with most of this since I've worked on several react projects in the last couple years.  I'm so glad to be filling in the gaps in my knowledge and look forward to being the one writing the majority of the code as opposed to the person working within and just doing little odds and ends tasks.  Goals!
+
+**Link(s) to work**
+1. [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+

@@ -56,3 +56,16 @@ I mostly understood and worked through this section of the course with ease... U
 **Link(s) to work**
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
+
+## Day 5: August 10, Wednesday
+
+**Today's Progress:**
+Built a little toggle button just for fun and completed one of the html challenges (form building) from freeCodeCamp's (New) Responsive Web Design Course.  
+
+**Thoughts** 
+Today was a little rough as it was the first day of 10th grade for my daughter, and her first day out of quarantine from covid, AND I needed to deep clean the house before my 4 year old finally got to come back home, AND then there was driving all afternoon to pickups and activities.  I was determined to get in my hour, but I definitely picked some lighter activities to get it done (while still stepping towards my goals). Definitely will do my hour FIRST tomorrow instead of waiting until the end of the day.
+
+**Link(s) to work**
+1. [Survey Form](https://codepen.io/DirtyCarrots/pen/rNdZNNO)
+1. [Toggle Button](https://codepen.io/DirtyCarrots/pen/rNdZBmg)
+

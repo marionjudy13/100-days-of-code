@@ -81,3 +81,15 @@ Was pretty familiar with most of this since I've worked on several react project
 **Link(s) to work**
 1. [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
+
+## Day 7: August 12, Friday (night)
+
+**Today's Progress:**
+Worked on blog project... Content and mobile styles
+
+**Thoughts** 
+I definitely don't need to try and include EVERYTHING in a kitchen sink styles page.  Worked on updating content to represent more of what I'll actually be using, and added some mobile styles.  Better late than never today :)
+
+**Link(s) to work**
+1. [Dirty Carrots](https://www.dirtycarrots.dev/posts/kitchen-sink-styles)
+

@@ -14,6 +14,7 @@ I'm excited to finish setting up the blog styles and start using the blog to doc
 **Link(s) to work**
 1. [Dirty Carrots - Kitchen Sink CSS Style Page](https://www.dirtycarrots.dev/posts/kitchen-sink-styles)
 
+---
 
 ## Day 2: August 7, Sunday
 
@@ -27,6 +28,7 @@ Basically same as yesterday, ready to be done with styles and get more into the 
 **Link(s) to work**
 1. [Dirty Carrots - Kitchen Sink CSS Style Page](https://www.dirtycarrots.dev/posts/kitchen-sink-styles)
 
+---
 
 ## Day 3: August 8, Monday
 
@@ -44,6 +46,7 @@ Also maybe having some of the certifications will help stregthen my portfolio si
 
 2. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
+---
 
 ## Day 4: August 9, Tuesday
 
@@ -56,6 +59,7 @@ I mostly understood and worked through this section of the course with ease... U
 **Link(s) to work**
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
+---
 
 ## Day 5: August 10, Wednesday
 
@@ -69,6 +73,7 @@ Today was a little rough as it was the first day of 10th grade for my daughter, 
 1. [Survey Form](https://codepen.io/DirtyCarrots/pen/rNdZNNO)
 2. [Toggle Button](https://codepen.io/DirtyCarrots/pen/rNdZBmg)
 
+---
 
 ## Day 6: August 11, Thursday
 
@@ -81,6 +86,7 @@ Was pretty familiar with most of this since I've worked on several react project
 **Link(s) to work**
 1. [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
+---
 
 ## Day 7: August 12, Friday (night)
 
@@ -92,4 +98,18 @@ I definitely don't need to try and include EVERYTHING in a kitchen sink styles p
 
 **Link(s) to work**
 1. [Dirty Carrots](https://www.dirtycarrots.dev/posts/kitchen-sink-styles)
+
+---
+
+## Day 8: August 13, Saturday
+
+**Today's Progress:**
+Worked on freeCodeCamp's 'Front End Development Libraries - React'.  Built several new pens in CodePen for my own reference.
+
+**Thoughts** 
+I've worked with React so much already, so this is all very familiar.  However, since I'm self taught and was always just navigating a senior dev's code, this course is REALLY improving my confidence in understanding how everything is actually working and the terminology.  In the past, I've had people ask me about something and I will think I don't know, but when I actually see the code I actually DO know - I just didn't understand the terminology.  So I'm pretty excited to be able to communicate better :)  I also really like the breakdown of props in this course! 
+
+**Link(s) to work**
+1. [My CodePen](https://codepen.io/your-work/)
+2. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 

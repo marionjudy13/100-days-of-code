@@ -126,3 +126,16 @@ LOSING MY MIND with stateful components... I finally see why it's so cool!!  I d
 **Link(s) to work**
 1. [The codePen I was most excited about](https://codepen.io/DirtyCarrots/pen/BarqOaE)
 2. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+
+
+## Day 10: August 15, Monday
+
+**Today's Progress:**
+Pretty much same as yesterday, AGAIN!  Worked on freeCodeCamp's 'Front End Development Libraries - React'.  Built several new pens in CodePen for my own reference.
+
+**Thoughts** 
+Still super pumped about React States... Today I learned about passing states to child components through props, and I'm loving having a better understanding of what's actually happening when I work with React!
+
+**Link(s) to work**
+1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)

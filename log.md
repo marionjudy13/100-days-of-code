@@ -113,3 +113,16 @@ I've worked with React so much already, so this is all very familiar.  However, 
 1. [My CodePen](https://codepen.io/your-work/)
 2. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
+
+
+## Day 9: August 14, Sunday
+
+**Today's Progress:**
+Pretty much same as yesterday!  Worked on freeCodeCamp's 'Front End Development Libraries - React'.  Built several new pens in CodePen for my own reference.
+
+**Thoughts** 
+LOSING MY MIND with stateful components... I finally see why it's so cool!!  I did the little simple counter exersize and it feels like some things have connected in my brain! 
+
+**Link(s) to work**
+1. [The codePen I was most excited about](https://codepen.io/DirtyCarrots/pen/BarqOaE)
+2. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)

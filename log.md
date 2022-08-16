@@ -113,7 +113,7 @@ I've worked with React so much already, so this is all very familiar.  However, 
 1. [My CodePen](https://codepen.io/your-work/)
 2. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
-
+---
 
 ## Day 9: August 14, Sunday
 
@@ -127,7 +127,7 @@ LOSING MY MIND with stateful components... I finally see why it's so cool!!  I d
 1. [The codePen I was most excited about](https://codepen.io/DirtyCarrots/pen/BarqOaE)
 2. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
-
+---
 
 ## Day 10: August 15, Monday
 
@@ -136,6 +136,19 @@ Pretty much same as yesterday, AGAIN!  Worked on freeCodeCamp's 'Front End Devel
 
 **Thoughts** 
 Still super pumped about React States... Today I learned about passing states to child components through props, and I'm loving having a better understanding of what's actually happening when I work with React!
+
+**Link(s) to work**
+1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+---
+
+## Day 11: August 16, Tuesday
+
+**Today's Progress:**
+Worked on lifecycle methods and ternary expressions for conditional renderering freeCodeCamp's 'Front End Development Libraries - React'.  
+
+**Thoughts** 
+Still loving this, and loving learning about lifecycle methods and getting a little hint about calling APIs with React.  The conditional rendering and ternary operators was mostly review, but I did fill in some knowledge gaps!
 
 **Link(s) to work**
 1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)

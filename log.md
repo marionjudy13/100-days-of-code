@@ -152,3 +152,16 @@ Still loving this, and loving learning about lifecycle methods and getting a lit
 
 **Link(s) to work**
 1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+---
+
+## Day 12: August 17, Wednesday
+
+**Today's Progress:**
+Worked on conditional rendering using props and ternery operators in React.  Also a wee bit of SASS.
+
+**Thoughts** 
+Squeezing this in last today and i'm TIRED.  Having a hard to wrapping my sleepy brain around things tonight, so I copied things over to codepen and used comments to walk through everything that is happening in the code.  It was very helpful, and I'd be interested in what the call stack for this code looks like!  Maybe tomorrow I'll write out what I think and ask for feedback.
+
+**Link(s) to work**
+1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)

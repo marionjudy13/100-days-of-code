@@ -165,3 +165,17 @@ Squeezing this in last today and i'm TIRED.  Having a hard to wrapping my sleepy
 
 **Link(s) to work**
 1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+---
+
+## Day 13: August 18, Thursday
+
+**Today's Progress:**
+Worked through the SASS section of the Front End Dev Certification.  Today was a busy day with some challenging life-stuff - so I kept it light. I love SASS! I also added a little toggle onto my SASS codePen, just for fun!
+
+**Thoughts** 
+I'm really excited to actually complete this course and have a better understanding of React. I've done bits of sooo many courses on my dev journey, and this will be the first course I've completed start to finish.
+
+**Link(s) to work**
+1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+2. [My Sass notes with the toggle that I had way too much fun clicking](https://codepen.io/DirtyCarrots/pen/WNzLKQX)

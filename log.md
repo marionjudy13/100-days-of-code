@@ -179,3 +179,17 @@ I'm really excited to actually complete this course and have a better understand
 **Link(s) to work**
 1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 2. [My Sass notes with the toggle that I had way too much fun clicking](https://codepen.io/DirtyCarrots/pen/WNzLKQX)
+
+---
+
+## Day 14: August 19, Friday
+
+**Today's Progress:**
+Completed the React portion of the Front End Dev Cert!  I have the Redux, Redux & React, and then certification projects to finish! 
+
+**Thoughts** 
+I go back and forth pretty violently feeling like I'm understanding things and feeling like I know nothing. I'm looking forward to the cert projects!
+
+**Link(s) to work**
+1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+2. [React Mapping Arrays](https://codepen.io/DirtyCarrots/pen/YzaBZoj?editors=1010)

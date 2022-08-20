@@ -193,3 +193,19 @@ I go back and forth pretty violently feeling like I'm understanding things and f
 **Link(s) to work**
 1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 2. [React Mapping Arrays](https://codepen.io/DirtyCarrots/pen/YzaBZoj?editors=1010)
+
+---
+
+## Day 15: August 20, Saturday
+
+**Today's Progress:**
+Started the Redux section of the Front End Dev Cert, and spent some time on my portfolio site! 
+
+**Thoughts** 
+It feels like I missed something on the course about redux. I feel tooottally unprepared for the challenges.  I'm going to look for another resource to help me out!
+
+It's next to impossible to work with both kids home and no help, so I'm grateful to get my time in.  Grateful for my teenager!
+
+**Link(s) to work**
+1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+2. [Adding to a list via input](https://codepen.io/DirtyCarrots/pen/poLGqZz?editors=1010)

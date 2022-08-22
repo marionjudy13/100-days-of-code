@@ -209,3 +209,17 @@ It's next to impossible to work with both kids home and no help, so I'm grateful
 **Link(s) to work**
 1. [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 2. [Adding to a list via input](https://codepen.io/DirtyCarrots/pen/poLGqZz?editors=1010)
+
+---
+## Day 16: August 21, Sunday
+
+**Today's Progress:**
+Got my calculator certification project started, and completed the tribute page on the "(New) Responsive Web Design" certification course.  
+
+**Thoughts** 
+I would have covered more tonight but I accidentally deleted the tribute page riiiiight before it was completed!  I decided to move over to VS Code for the cert projects to avoid that problem in the future.  
+
+Kept it pretty light tonight.
+
+**Link(s) to work**
+1. [(New) Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)

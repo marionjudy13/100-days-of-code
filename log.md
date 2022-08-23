@@ -223,3 +223,15 @@ Kept it pretty light tonight.
 
 **Link(s) to work**
 1. [(New) Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+---
+## Day 17: August 22, Monday
+
+**Today's Progress:**
+Worked on my portfolio site! 
+
+**Thoughts** 
+I definitely couldn't focus on work today HAH ugh.  Tomorrow will be a new day!
+
+**Link(s) to work**
+No link today, not until the site is a little closer!

@@ -235,3 +235,17 @@ I definitely couldn't focus on work today HAH ugh.  Tomorrow will be a new day!
 
 **Link(s) to work**
 No link today, not until the site is a little closer!
+
+---
+## Day 18: August 24, Wednesday
+
+**Today's Progress:**
+Worked on my portfolio site, and worked on a vanilla js calculator! 
+
+**Thoughts** 
+I took my first day off the challenge yesterday, and feel recharged! I'm almost done with the freeCodeCamp frontend libraries cert course.  The first project is to build a little calulator.  I've been thinking about it alot, and started building in vanilla js first today because I want to see how things are different between vanilla and using React.
+
+I think the more confident I am with normalllll ol javascript, the better I can keep up with the fast paced evolution of the Internet.  I know the courses I'm taking now are already somewhat behind.  
+
+**Link(s) to work**
+[Codepen - Messin around with the vanilla calculator](https://codepen.io/DirtyCarrots/pen/RwMOOWr?editors=1111)

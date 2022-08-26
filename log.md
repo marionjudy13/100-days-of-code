@@ -249,3 +249,17 @@ I think the more confident I am with normalllll ol javascript, the better I can 
 
 **Link(s) to work**
 [Codepen - Messin around with the vanilla calculator](https://codepen.io/DirtyCarrots/pen/RwMOOWr?editors=1111)
+
+---
+
+## Day 19: August 25, Thursday
+
+**Today's Progress:**
+Same as yesterday... worked on my portfolio site, and worked on a vanilla js calculator! 
+
+**Thoughts** 
+Spent probably too much time messing with the calculator's styling.  Something is wonky and I am just not seeing it yet.
+
+
+**Link(s) to work**
+The code was getting a little hard to follow, so I moved it locally for now!

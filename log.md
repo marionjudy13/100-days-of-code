@@ -263,3 +263,18 @@ Spent probably too much time messing with the calculator's styling.  Something i
 
 **Link(s) to work**
 The code was getting a little hard to follow, so I moved it locally for now!
+
+---
+
+## Day 20: August 26, Friday
+
+**Today's Progress:**
+Worked on my portfolio site! And messed around a bit with deploying a webflow site on Netlify.  
+
+**Thoughts** 
+My portfolio is SO CLOSE to done.  I honestly want to work on a million other things, but I know I need to get it done!!  I think I can finish it tomorrow.
+
+I'm building it in Webflow now, since time is of the essence.  I am planning on replicating it in Next and with Sanity.  Literally can't wait, I'm so excited!  It will be nice to have all the content and everything ready so I can just focus on the code and functionality!
+
+**Link(s) to work**
+No links today!  I'll post a link when it's done.

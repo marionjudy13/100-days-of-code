@@ -278,3 +278,16 @@ I'm building it in Webflow now, since time is of the essence.  I am planning on 
 
 **Link(s) to work**
 No links today!  I'll post a link when it's done.
+
+---
+
+## Day 21: August 27, Saturday
+
+**Today's Progress:**
+Allllmooost donnne with my porrrtfolioooo 
+
+**Thoughts** 
+Well, I thought I would be able to get it done, but I didn't have enough time.  Definitely should be able to finish it Monday! Done to the last bit of content & details.
+
+**Link(s) to work**
+No links today!  I'll post a link when it's done.

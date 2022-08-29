@@ -291,3 +291,15 @@ Well, I thought I would be able to get it done, but I didn't have enough time.  
 
 **Link(s) to work**
 No links today!  I'll post a link when it's done.
+
+---
+
+## Day 22: August 28, Sunday
+
+Little bit of portfolio, little bit of working with APIs, lots of trying not to fall asleep because today was me and Maya's day to celebrate with Tol for his 5th bday and I'm soooo tirrrredddd
+
+**Thoughts** 
+I need to figure out a 'home' link element for my portfolio site. I was mostly too tired tonight to do anything substantial.  Tomorrow's a fresh start.
+
+**Link(s) to work**
+No links today! 

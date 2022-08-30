@@ -303,3 +303,16 @@ I need to figure out a 'home' link element for my portfolio site. I was mostly t
 
 **Link(s) to work**
 No links today! 
+
+
+---
+
+## Day 23: August 29, Monday
+
+Fine tuned portfolio, finished the Responsive Web Design course on freeCodeCamp and got my certificate!
+
+**Thoughts** 
+Definitely did the bare minimum to complete the course since it was review.  Maybe I should go back and make things look prettier?
+
+**Link(s) to work**
+https://freecodecamp.org/certification/ladymarion/responsive-web-design

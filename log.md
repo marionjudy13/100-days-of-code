@@ -316,3 +316,12 @@ Definitely did the bare minimum to complete the course since it was review.  May
 
 **Link(s) to work**
 https://freecodecamp.org/certification/ladymarion/responsive-web-design
+
+---
+
+## Day 24: August 30, Tuesday
+
+Fine tuned portfolio, worked on my calculator!  
+
+**Thoughts** 
+I'm building the calculator in React, and then in vanilla JS.  Maybe backwards, but whatever!

@@ -325,3 +325,13 @@ Fine tuned portfolio, worked on my calculator!
 
 **Thoughts** 
 I'm building the calculator in React, and then in vanilla JS.  Maybe backwards, but whatever!
+
+
+---
+
+## Day 25: September, August 31, Wednesday
+
+Worked on my calculator!  
+
+**Thoughts** 
+There's clearly a million ways to do this.  

@@ -329,9 +329,23 @@ I'm building the calculator in React, and then in vanilla JS.  Maybe backwards, 
 
 ---
 
-## Day 25: September, August 31, Wednesday
+## Day 25: August 31, Wednesday
 
 Worked on my calculator!  
 
 **Thoughts** 
 There's clearly a million ways to do this.  
+
+
+---
+
+## Day 26: September, 1, Friday
+
+Worked on my calculator again! 
+
+**Thoughts** 
+I'm following along a tutorial now, and it's so complicated.  I think tomorrow I'll work on my watermelon project just for a morale boost.
+
+**Links
+https://github.com/marionjudy13/react-calculator
+ 

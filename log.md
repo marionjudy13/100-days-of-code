@@ -349,3 +349,15 @@ I'm following along a tutorial now, and it's so complicated.  I think tomorrow I
 **Links
 https://github.com/marionjudy13/react-calculator
  
+ 
+ ---
+
+## Day 27: September, 2, Saturday
+
+I offically had a working calculator!  
+
+**Thoughts** 
+I decided I should probably finish up my calculator instead of adding yet another half finished project to the list.  It's funcational, but still needs finishing touches!  I followed along with this guy (after trying on my own for awhile)  https://www.youtube.com/watch?v=oiX-6Y2oGjI
+
+**Links
+https://github.com/marionjudy13/react-calculator

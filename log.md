@@ -339,7 +339,7 @@ There's clearly a million ways to do this.
 
 ---
 
-## Day 26: September, 1, Friday
+## Day 26: September 1, Friday
 
 Worked on my calculator again! 
 
@@ -352,7 +352,7 @@ https://github.com/marionjudy13/react-calculator
  
  ---
 
-## Day 27: September, 2, Saturday
+## Day 27: September 2, Saturday
 
 I offically had a working calculator!  
 
@@ -361,3 +361,19 @@ I decided I should probably finish up my calculator instead of adding yet anothe
 
 **Links
 https://github.com/marionjudy13/react-calculator
+
+
+ 
+ ---
+
+## Day 28: September 3, Sunday
+
+**Today's Progress:**
+Took a break from coding exercises to work on a personal project!   Feeling super comfortable with React & JS basics.   
+
+**Thoughts** 
+I love this website haha... I need to make the table responsive, and I also need to make individual pages for each watermelon entry.  Also sorting so the order isn't all wonky.
+
+**Links
+[Snatch from the Patch](https://snatch-from-the-patch.vercel.app/)
+

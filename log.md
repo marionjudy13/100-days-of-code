@@ -339,7 +339,7 @@ There's clearly a million ways to do this.
 
 ---
 
-## Day 26: September 1, Friday
+## Day 26: September 2, Friday
 
 Worked on my calculator again! 
 
@@ -352,7 +352,7 @@ https://github.com/marionjudy13/react-calculator
  
  ---
 
-## Day 27: September 2, Saturday
+## Day 27: September 3, Saturday
 
 I offically had a working calculator!  
 
@@ -366,7 +366,7 @@ https://github.com/marionjudy13/react-calculator
  
  ---
 
-## Day 28: September 3, Sunday
+## Day 28: September 4, Sunday
 
 **Today's Progress:**
 Took a break from coding exercises to work on a personal project!   Feeling super comfortable with React & JS basics.   
@@ -377,3 +377,29 @@ I love this website haha... I need to make the table responsive, and I also need
 **Links
 [Snatch from the Patch](https://snatch-from-the-patch.vercel.app/)
 
+
+ 
+ ---
+
+## Day 29: September 5, Monday
+
+**Today's Progress:**
+Added some finishing touches to my portfolio and fine-tuning everything!
+
+**Thoughts** 
+I'm overall pretty happy with how my portfolio is turning out!  I have such mixed feeling about Webflow.  Sometimes it seems easier and sometimes not.  I do get frustrated with needing to repeat actions in Webflow, but maybe I'm missing something.  I definitely don't like the animation, and spent some time today building my own mobile menu.
+
+**Links
+( 
+ ---
+
+## Day 28: September 3, Sunday
+
+**Today's Progress:**
+Took a break from coding exercises to work on a personal project!   Feeling super comfortable with React & JS basics.   
+
+**Thoughts** 
+I love this website haha... I need to make the table responsive, and I also need to make individual pages for each watermelon entry.  Also sorting so the order isn't all wonky.
+
+**Links
+(https://www.marionjudy.dev/)

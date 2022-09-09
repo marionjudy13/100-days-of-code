@@ -403,3 +403,16 @@ I will probably continue to fiddle with this every now and then.  I'd like to ad
 
 **Links
 (https://www.marionjudy.dev/)
+
+ ---
+
+## Day 31: September 9, Friday
+
+**Today's Progress:**
+Learned that responsive tables are HARD.
+
+**Thoughts** 
+I am so frustrated!  This has been probably my least productive day of the challenge.  It is SO hard to make tables responsive.  It was easy enough to make everything display: block, but then the thead is missing from each column of course.  Ugh!  Going to go to the discord community for this one.  I even tried using an NPM package that totally almost worked, but then the breakpoint was wrong and I'm not sure how to fix that.  Feeling a little defeated today!
+
+**Links
+[Snatch from the Patch (Watermelon Database)](https://snatch-from-the-patch.vercel.app/)

@@ -390,16 +390,16 @@ Added some finishing touches to my portfolio and fine-tuning everything!
 I'm overall pretty happy with how my portfolio is turning out!  I have such mixed feeling about Webflow.  Sometimes it seems easier and sometimes not.  I do get frustrated with needing to repeat actions in Webflow, but maybe I'm missing something.  I definitely don't like the animation, and spent some time today building my own mobile menu.
 
 **Links
-( 
+(https://www.marionjudy.dev/)
  ---
 
-## Day 28: September 3, Sunday
+## Day 30: September 8, Thursday
 
 **Today's Progress:**
-Took a break from coding exercises to work on a personal project!   Feeling super comfortable with React & JS basics.   
+Finished up my portfolio site!  Lots of custom css and updating metadata today! 
 
 **Thoughts** 
-I love this website haha... I need to make the table responsive, and I also need to make individual pages for each watermelon entry.  Also sorting so the order isn't all wonky.
+I will probably continue to fiddle with this every now and then.  I'd like to add a link to my resume, make the arrows on the project pages more consistent, and update some of the copy here and there.  Overall, it's me and my work!  
 
 **Links
 (https://www.marionjudy.dev/)

@@ -416,3 +416,18 @@ I am so frustrated!  This has been probably my least productive day of the chall
 
 **Links
 [Snatch from the Patch (Watermelon Database)](https://snatch-from-the-patch.vercel.app/)
+
+
+
+ ---
+
+## Day 32 & 33: September 10, Saturday & September 11, Sunday
+
+**Today's Progress:**
+Learned about sorting!!
+
+**Thoughts** 
+It took me a minute (2 dayssss) to understand sorting my array of objects, but I got it now!  I feel like I have lots of little pieces of knowledge, and sometimes I have a hard time putting them together right.  Once I get stuff put together though it feels AWESOME!  I think I need to focus less on tutorials and more on just building projects so I'm actually seeing how to use things IRL.  I started with sorting the content on the component level, and after I got that I figured out how to sort my data query instead!  I also learned how to order the content in Sanity which is SO COOL.  Feeling good today  :)
+
+**Links
+[Snatch from the Patch (Watermelon Database)](https://snatch-from-the-patch.vercel.app/)

@@ -431,3 +431,18 @@ It took me a minute (2 dayssss) to understand sorting my array of objects, but I
 
 **Links
 [Snatch from the Patch (Watermelon Database)](https://snatch-from-the-patch.vercel.app/)
+
+
+
+ ---
+
+## Day 34: September 12, Monday
+
+**Today's Progress:**
+Learned how to make a typewriter effect with both javascript and css (preferred the js solution)
+
+**Thoughts** 
+This was both fun AND frustrating!  I would still like to add a little cursor animation.  Tomorrow!
+
+**Links
+[My Portfolio](https://www.marionjudy.dev/)

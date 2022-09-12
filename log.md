@@ -442,7 +442,7 @@ It took me a minute (2 dayssss) to understand sorting my array of objects, but I
 Learned how to make a typewriter effect with both javascript and css (preferred the js solution)
 
 **Thoughts** 
-This was both fun AND frustrating!  I would still like to add a little cursor animation.  Tomorrow!
+This was both fun AND frustrating!  I would still like to add a little cursor animation, and a pause after the 'hi'.  Tomorrow!
 
 **Links
 [My Portfolio](https://www.marionjudy.dev/)

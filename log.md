@@ -446,3 +446,20 @@ This was both fun AND frustrating!  I would still like to add a little cursor an
 
 **Links
 [My Portfolio](https://www.marionjudy.dev/)
+
+
+
+ ---
+
+## Day 35: September 13, Tuesday
+
+**Today's Progress:**
+Added my resume to the portfolio site.  Also updated links on the Dirty Carrots site, and started building a topnav for the blog layout.
+
+**Thoughts** 
+I wish there was was more time everyday.  There's never enough time to do all the things I'd like to do!  I am SUPER excited to be wrapping up my portfolio page!  I am itching to get back to building out Dirty Carrots and the Plantones site.  I have a new project idea in mind that I am REALLY excited about, but I am not going to start it until I finish what I have going!  Or at least get to an MVP.  Need more time!!
+
+**Links
+[My Portfolio](https://www.marionjudy.dev/)
+[Dirty Carrots Blog](https://www.dirtycarrots.dev/)
+

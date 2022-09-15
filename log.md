@@ -463,3 +463,20 @@ I wish there was was more time everyday.  There's never enough time to do all th
 [My Portfolio](https://www.marionjudy.dev/)
 [Dirty Carrots Blog](https://www.dirtycarrots.dev/)
 
+
+
+
+
+ ---
+
+## Day 36: September 14, Wednesday
+
+**Today's Progress:**
+Updated resume on website, added a cute little cursor animation!
+
+**Thoughts** 
+I am ready to start applying for jobs!!  Ready enough anyways... There's always something to work on!
+
+**Links
+[My Portfolio](https://www.marionjudy.dev/)
+

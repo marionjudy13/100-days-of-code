@@ -480,3 +480,15 @@ I am ready to start applying for jobs!!  Ready enough anyways... There's always 
 **Links
 [My Portfolio](https://www.marionjudy.dev/)
 
+
+--- 
+
+## Day 37: September 16, Friday
+
+**Today's Progress & THoughts:**
+Worked on the dev blog a bit.  Added a link and some styles to the nav component, and worked on blog posts styles.  I wasn't happy with the blog post styles though, so I will probably scrap and start over :)
+
+**Links**
+[Dirty Carrots](https://www.dirtycarrots.dev/)
+
+

@@ -492,3 +492,17 @@ Worked on the dev blog a bit.  Added a link and some styles to the nav component
 [Dirty Carrots](https://www.dirtycarrots.dev/)
 
 
+--- 
+
+## Day 38: September 17, 2022
+
+**Today's Progress**
+Worked on dirty carrots mobile styles.
+
+Thoughts:
+Looking better! I've decided I do NOT like the kitchen sink approach for rich text.  I'm going to style the text in the blog posts I have, and will add on as needed!
+
+**Links**
+[Dirty Carrots](https://www.dirtycarrots.dev/)
+
+

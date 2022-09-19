@@ -506,3 +506,32 @@ Looking better! I've decided I do NOT like the kitchen sink approach for rich te
 [Dirty Carrots](https://www.dirtycarrots.dev/)
 
 
+
+--- 
+
+## Day 39: September 18, 2022
+
+**Today's Progress**
+Worked on dirty carrots styles and began adding work in progress ribbon to project sites.
+
+Thoughts:
+Something weird is going on with my ribbon styles!  It's not using the right font for some reason.
+
+**Links**
+[Dirty Carrots](https://www.dirtycarrots.dev/)
+
+
+--- 
+
+## Day 40: September 19, 2022
+
+**Today's Progress**
+Finished the Work in Progress ribbon on Dirty Carrots! 
+
+Thoughts:
+ There's still something weird going on... I think probably I did something weird when setting up my page layouts maybe?  I was having a really hard time getting it to recognize the styles when added to the component on the post layout, and finally got it by using this form: '&[class='rightSide']' (Thanks Scott!)  I'll add it to my other projects and then will be back to building and learning!  
+
+**Links**
+[Dirty Carrots](https://www.dirtycarrots.dev/)
+
+

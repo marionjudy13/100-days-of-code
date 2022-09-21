@@ -535,3 +535,18 @@ Thoughts:
 [Dirty Carrots](https://www.dirtycarrots.dev/)
 
 
+
+
+--- 
+
+## Day 41: September 20, 2022
+
+**Today's Progress**
+Worked on Watermelon site's ribbon, started a lesson on APIs 
+
+Thoughts:
+Something is weird about the banner on the Watermelon site.  Everything works great locally, but the styles are all wonky when I push live.  I will revisit it tomorrow when my brain is fresh!  I also started a twitch course about APIs by Leon Noel.  I'm really loving his teaching style so far!  
+
+**Links**
+[Snatch from the Patch](https://snatch-from-the-patch.vercel.app/)
+

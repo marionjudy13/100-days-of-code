@@ -561,3 +561,17 @@ I forgot to log yesterday, so I'm double logging!  I spend a little time yesterd
 
 Thoughts:
 The CSS issue was something to do with the banner's parent styles.  I also started a Twitch bootcamp course yesterday called Learning with Leon.  He has a TON of CS knowledge  and so far I really like the way he teaches!   I did more of that course and started the react intro tutorial as well.  I am enjoying filling in the gaps in my knowledge!  It is really improving my confidence and skill.
+
+--- 
+
+## Day 44: September 23, 2022
+
+**Today's Progress**
+Made some great progress learning about APIs today!! Also started CodeWars.
+
+Thoughts:
+I looooove the Learning with Leon Twitch channel!!  I followed his API class and it was so great.  I came in with some knowledge, but was able to fill in some blanks and feel way more confident!  I'm going to start his bootcamp from the very beginning, and spend some time with that and some time building my own projects.  I REALLY love getting some of that core knowledge in a 'classroom' type setting, and I get so pumped when I know the answers already!!  I started Codewars as well and DANG that's a challenge!  
+
+**Links**
+[Basic API Fetch](https://codepen.io/DirtyCarrots/pen/xxjXaqN)
+[Cocktail API Fetch]

@@ -550,3 +550,14 @@ Something is weird about the banner on the Watermelon site.  Everything works gr
 **Links**
 [Snatch from the Patch](https://snatch-from-the-patch.vercel.app/)
 
+
+
+--- 
+
+## Day 42: September 21, 2022 & Day 43: Sept 22, 2022
+
+**Today's Progress**
+I forgot to log yesterday, so I'm double logging!  I spend a little time yesterday fixing the weird CSS issue on the Watermelon site.  I also joined a new bootcamp course/community, I also worked on the React Intro tutorial.
+
+Thoughts:
+The CSS issue was something to do with the banner's parent styles.  I also started a Twitch bootcamp course yesterday called Learning with Leon.  He has a TON of CS knowledge  and so far I really like the way he teaches!   I did more of that course and started the react intro tutorial as well.  I am enjoying filling in the gaps in my knowledge!  It is really improving my confidence and skill.

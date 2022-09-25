@@ -575,3 +575,20 @@ I looooove the Learning with Leon Twitch channel!!  I followed his API class and
 **Links**
 [Basic API Fetch](https://codepen.io/DirtyCarrots/pen/xxjXaqN)
 [Cocktail API Fetch]
+
+
+
+--- 
+
+## Day 45: September 24, 2022
+
+**Today's Progress**
+Started to get Plantones (or Fifty Shades), not sure what to call it, going today!  Got setup with Next.js and Tailwind (Tailwind for the first time!)
+
+Thoughts:
+So since I have ears I've been hearing about Tailwind for awhile now.  I have yet to build anything with it though!  Until now!  I spent a majority of today's time just reading through the docs and getting aclimated, and when I finally went to the code and changed the page's bg color I audibly 'oh my god'ed.  This is awesome!!  I love the consistency that it forces you into.  We'll see how I feel after I get deeper into the design hah
+
+I also spent some time today watching a few video's recommended by Learning with Leon about 'Learning Effectively'.  What I got from it is basically I need to be building like crazy, and maybe using ANKI flashcards to actually remember technicalities. 
+
+**Links**
+No links yet, still local

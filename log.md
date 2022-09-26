@@ -592,3 +592,16 @@ I also spent some time today watching a few video's recommended by Learning with
 
 **Links**
 No links yet, still local
+
+--- 
+
+## Day 46: September 26, 2022
+
+**Today's Progress**
+Got my Sanity studio all setup.
+
+**Thoughts:**
+Got my Sanity studio all setup and was ready to get going when I realized I had accidentally setup the project in TypeScript.  I'm going to scrap it and start over.  I really want to focus on Tailwind and Sanity on this project.  TypeScript will be for another day!
+
+**Links**
+No links yet, still local

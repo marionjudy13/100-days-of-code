@@ -618,3 +618,18 @@ Made some great progress today!  I ended up missing yesterday due to an awful he
 
 **Links**
 [Dirty Carrots Dev Blog Post(https://www.dirtycarrots.dev/posts/nextjs-tailwind-sanity-setup)
+
+---
+
+## Day 48: September 29, 2022
+
+**Today's Progress**
+Finished up and double-checked my setup notes!  Looks like everything is working great.  Started up a new repo so I can rebuild my portfolio in React. 
+
+**Thoughts:**
+I'm worried that I don't have enough current React projects in my portfolio.  I'm going to start spending way more time just building!  I think it'd be nice to build my own little boilerplate.
+
+
+**Links**
+[Dirty Carrots Dev Blog Post(https://www.dirtycarrots.dev/)
+

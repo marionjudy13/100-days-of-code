@@ -605,3 +605,16 @@ Got my Sanity studio all setup and was ready to get going when I realized I had 
 
 **Links**
 No links yet, still local
+
+--- 
+
+## Day 47: September 28, 2022
+
+**Today's Progress**
+Started my project site over in Next.js, Tailwind, and Sanity!  I had accidentally setup in typescript the first time, and I wanted to focus on learning Tailwind on this project.  Typescript will be a future project!  Also did some writing and youtube course time.  
+
+**Thoughts:**
+Made some great progress today!  I ended up missing yesterday due to an awful headache, but I got a great night's sleep and I think my brain was like YESSSS THANK YOU.  I reset the Plantones site, it's officially running using Next.js, Tailwind, and Sanity!  Sanity CMS is all setup and pulling in data, too!  I was messing around with Tailwind again and I'm really excited about it.  I LOVE css and this feels a bit like css 2.0, so effiecient!  I also wrote out my process of getting the site setup and running.  Tomorrow I'm going to go through the steps and makes sure I didn't miss anything.  It will probably be a work in progress.  I'm using my dirtycarrots.dev to document it.  I also am still watching the Learning with Leon youtube series and am head over heals for the course so far!  He does a REALLY great job of setting the scene for software engineering.  I'd like to run a similar course someday for Tertia!  I am really enjoying taking some time to just learn and fill some gaps in my knowledge.
+
+**Links**
+[Dirty Carrots Dev Blog Post(https://www.dirtycarrots.dev/posts/nextjs-tailwind-sanity-setup)

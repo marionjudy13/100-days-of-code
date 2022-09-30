@@ -631,5 +631,20 @@ I'm worried that I don't have enough current React projects in my portfolio.  I'
 
 
 **Links**
-[Dirty Carrots Dev Blog Post(https://www.dirtycarrots.dev/)
+[Dirty Carrots Dev Blog Post](https://www.dirtycarrots.dev/)
+
+---
+
+## Day 49: September 30, 2022
+
+**Today's Progress**
+Fixed a build error on Dirty Carrots dev blog, and started building Plantones v2
+
+**Thoughts:**
+I was SO excited when I fixed the Dirty Carrots build error.  I was trying to import my fonts through the Head component on my index AND layout.  I didn't realize that since I didn't have a `_document.js` file setup, the font's weren't being imported globally.  I had imported them separately on my post layout, but then I got the build error!  Figuring out the document page was awesome!  I had always wondered the best way to apply styles to the body, and that's ALSO using the `document.js` page, so COOL!  I also working on my Plantonesv2 project.  Got my font imported (correctly, now that I know what I'm doing), and started building using Tailwind for styles!  I really like it so far!  I REALLY like setting up my color/font settings in the `tailwind.config.js` file.  So far, I love it.  I also setup the deploy with Netlify instead of Vercel this time, just to do something a little different. 
+
+
+**Links**
+[Dirty Carrots](https://www.dirtycarrots.dev/)
+[Plantonesv2](https://plantonesv2.netlify.app/)
 

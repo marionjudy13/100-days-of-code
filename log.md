@@ -648,3 +648,17 @@ I was SO excited when I fixed the Dirty Carrots build error.  I was trying to im
 [Dirty Carrots](https://www.dirtycarrots.dev/)
 [Plantonesv2](https://plantonesv2.netlify.app/)
 
+---
+
+## Day 50: October 1, 2022
+
+**Today's Progress**
+Worked on some open source stuff on Github!
+
+**Thoughts:**
+Well, that was not nearly as fruitful as I thought it would be!  It's hard to find a project and understand what the issues are well enough to think I can resolve them.  Those that I DID find tended to already have several people already submitting PRs.  I did a could PRs on some beginner projects, and will try again tomorrow!
+
+**Links**
+No links until PRs are approved.
+
+

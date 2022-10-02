@@ -662,3 +662,17 @@ Well, that was not nearly as fruitful as I thought it would be!  It's hard to fi
 No links until PRs are approved.
 
 
+---
+
+## Day 51: October 2, 2022
+
+**Today's Progress**
+Worked on Plantonesv2
+
+**Thoughts:**
+Still really enjoying Tailwind!  I worked on the Sanity schema a bit today.  I need to find a solution for picking a color from an image uploaded in Sanity.  I also need to figure out references in the schema so that eventually plants can be sorted by light, soil requirements, etc.  All mobile styles still!
+
+**Links**
+[Plantones v2](https://plantonesv2.netlify.app/)
+
+

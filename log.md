@@ -689,3 +689,17 @@ Didn't log yesterday - too crazy of a day and it was one of the balls to be drop
 **Links:**
 
 - [Plantones v2](https://plantonesv2.netlify.app/)
+
+---
+
+## Day 55: October 12, 2022
+
+**Today's Progress:**
+Spent a little time getting some vscode extensions setup, started setting up the individual plant page components.
+
+**Thoughts:**
+It's good to be back after fall break! I got my prettier setup to format my JSX on save, which is insanely helpful! Also messed around with destructuring my data from my parent component to the children components!
+
+**Links:**
+
+- [Plantones v2](https://plantonesv2.netlify.app/)

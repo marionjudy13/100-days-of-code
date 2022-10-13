@@ -703,3 +703,17 @@ It's good to be back after fall break! I got my prettier setup to format my JSX 
 **Links:**
 
 - [Plantones v2](https://plantonesv2.netlify.app/)
+
+---
+
+## Day 56: October 13, 2022
+
+**Today's Progress:**
+Added a few things to my Sanity schema, added some styles, and added some content!
+
+**Thoughts:**
+Not a lot of deep thoughts today, just enjoying this project!
+
+**Links:**
+
+- [Plantones v2](https://plantonesv2.netlify.app/)

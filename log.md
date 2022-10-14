@@ -717,3 +717,17 @@ Not a lot of deep thoughts today, just enjoying this project!
 **Links:**
 
 - [Plantones v2](https://plantonesv2.netlify.app/)
+
+---
+
+## Day 57: October 14, 2022
+
+**Today's Progress:**
+Spent the whole day trying to figure out a build error, to no avail! :(
+
+**Thoughts:**
+SOoooOOooOOoo frustrated... I'm not sure what this error is.  It looked like it was an error with my import paths, but all that is fixed and now the only error seems to be a linter error.  I just keep hitting my head on the wall with this one!  If I can't figure it out I might just nuke it and start over ::sobbing::
+
+**Links:**
+
+- [Plantones v2](https://plantonesv2.netlify.app/)

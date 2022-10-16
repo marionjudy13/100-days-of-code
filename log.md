@@ -731,3 +731,18 @@ SOoooOOooOOoo frustrated... I'm not sure what this error is.  It looked like it 
 **Links:**
 
 - [Plantones v2](https://plantonesv2.netlify.app/)
+
+
+---
+
+## Day 58: October 16, 2022
+
+**Today's Progress:**
+Started Plantones over from scratch.  
+
+**Thoughts:**
+Well, it only took a couple hours, and I took the opportunity to update some of my setup notes on Dirty Carrots as well.  It's building successfully again!  I must have done soooomething when I added my linter, so I'll be avoiding that for now.  :) Back to building!
+
+**Links:**
+
+- [Plantones v3](https://plantones-v3.netlify.app/)

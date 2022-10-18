@@ -746,3 +746,17 @@ Well, it only took a couple hours, and I took the opportunity to update some of 
 **Links:**
 
 - [Plantones v3](https://plantones-v3.netlify.app/)
+
+
+---
+
+## Day 59: October 17, 2022
+
+**Today's Progress:**
+Did a bunch of JS exercise for funsies (or to break my brain??)
+
+**Thoughts:**
+I really enjoy doing the codewars challenges... I am pretty good at building websites, generally, but rarely get to exercise my javascript knowledge.  Codewars feels like the gym, for coding!  (Nerd alert, but whatever, it's fun!)
+
+**Links:**
+No links today.

@@ -760,3 +760,16 @@ I really enjoy doing the codewars challenges... I am pretty good at building web
 
 **Links:**
 No links today.
+
+---
+
+## Day 60: October 18, 2022
+
+**Today's Progress:**
+Worked on my Next.js/Sanity.io plant site some more!
+
+**Thoughts:**
+The deeper I get into this build, the more confusing the flow of data is.  I'd like to spend some more time exploring that so I feel more confident!
+
+**Links:**
+- [Plantones v3](https://plantones-v3.netlify.app/)

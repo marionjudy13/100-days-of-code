@@ -773,3 +773,16 @@ The deeper I get into this build, the more confusing the flow of data is.  I'd l
 
 **Links:**
 - [Plantones v3](https://plantones-v3.netlify.app/)
+
+---
+
+## Day 61: October 20, 2022
+
+**Today's Progress:**
+Got some block data flowing from Sanity into Next.js!  Also, broke my brain a little, but finally figured out some flex styles to act the way I wanted!
+
+**Thoughts:**
+I thought pulling in the block content was going to be way more difficult than it was!  I do feel like my code is getting a little messy... I'm also scared to run a linter again since I'm pretty sure that's what broke my netlify build on v2.  Maybe once I've finished pulling in the basic content I will ask the sanity community to review and suggest ways to clean up the code?
+
+**Links:**
+- [Plantones v3](https://plantones-v3.netlify.app/)

@@ -786,3 +786,16 @@ I thought pulling in the block content was going to be way more difficult than i
 
 **Links:**
 - [Plantones v3](https://plantones-v3.netlify.app/)
+
+---
+
+## Day 62: October 24, 2022
+
+**Today's Progress:**
+Worked on Plantones
+
+**Thoughts:**
+Got some feedback from Scott that was helpful!  I didn't think to save my queries out in separate files!  Very cool.  He also pointed out some 'best practices' I could apply.  So helpful!!!
+
+**Links:**
+- [Plantones v3](https://plantones-v3.netlify.app/)

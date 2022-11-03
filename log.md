@@ -726,27 +726,25 @@ Not a lot of deep thoughts today, just enjoying this project!
 Spent the whole day trying to figure out a build error, to no avail! :(
 
 **Thoughts:**
-SOoooOOooOOoo frustrated... I'm not sure what this error is.  It looked like it was an error with my import paths, but all that is fixed and now the only error seems to be a linter error.  I just keep hitting my head on the wall with this one!  If I can't figure it out I might just nuke it and start over ::sobbing::
+SOoooOOooOOoo frustrated... I'm not sure what this error is. It looked like it was an error with my import paths, but all that is fixed and now the only error seems to be a linter error. I just keep hitting my head on the wall with this one! If I can't figure it out I might just nuke it and start over ::sobbing::
 
 **Links:**
 
 - [Plantones v2](https://plantonesv2.netlify.app/)
-
 
 ---
 
 ## Day 58: October 16, 2022
 
 **Today's Progress:**
-Started Plantones over from scratch.  
+Started Plantones over from scratch.
 
 **Thoughts:**
-Well, it only took a couple hours, and I took the opportunity to update some of my setup notes on Dirty Carrots as well.  It's building successfully again!  I must have done soooomething when I added my linter, so I'll be avoiding that for now.  :) Back to building!
+Well, it only took a couple hours, and I took the opportunity to update some of my setup notes on Dirty Carrots as well. It's building successfully again! I must have done soooomething when I added my linter, so I'll be avoiding that for now. :) Back to building!
 
 **Links:**
 
 - [Plantones v3](https://plantones-v3.netlify.app/)
-
 
 ---
 
@@ -756,7 +754,7 @@ Well, it only took a couple hours, and I took the opportunity to update some of 
 Did a bunch of JS exercise for funsies (or to break my brain??)
 
 **Thoughts:**
-I really enjoy doing the codewars challenges... I am pretty good at building websites, generally, but rarely get to exercise my javascript knowledge.  Codewars feels like the gym, for coding!  (Nerd alert, but whatever, it's fun!)
+I really enjoy doing the codewars challenges... I am pretty good at building websites, generally, but rarely get to exercise my javascript knowledge. Codewars feels like the gym, for coding! (Nerd alert, but whatever, it's fun!)
 
 **Links:**
 No links today.
@@ -769,9 +767,10 @@ No links today.
 Worked on my Next.js/Sanity.io plant site some more!
 
 **Thoughts:**
-The deeper I get into this build, the more confusing the flow of data is.  I'd like to spend some more time exploring that so I feel more confident!
+The deeper I get into this build, the more confusing the flow of data is. I'd like to spend some more time exploring that so I feel more confident!
 
 **Links:**
+
 - [Plantones v3](https://plantones-v3.netlify.app/)
 
 ---
@@ -779,12 +778,13 @@ The deeper I get into this build, the more confusing the flow of data is.  I'd l
 ## Day 61: October 20, 2022
 
 **Today's Progress:**
-Got some block data flowing from Sanity into Next.js!  Also, broke my brain a little, but finally figured out some flex styles to act the way I wanted!
+Got some block data flowing from Sanity into Next.js! Also, broke my brain a little, but finally figured out some flex styles to act the way I wanted!
 
 **Thoughts:**
-I thought pulling in the block content was going to be way more difficult than it was!  I do feel like my code is getting a little messy... I'm also scared to run a linter again since I'm pretty sure that's what broke my netlify build on v2.  Maybe once I've finished pulling in the basic content I will ask the sanity community to review and suggest ways to clean up the code?
+I thought pulling in the block content was going to be way more difficult than it was! I do feel like my code is getting a little messy... I'm also scared to run a linter again since I'm pretty sure that's what broke my netlify build on v2. Maybe once I've finished pulling in the basic content I will ask the sanity community to review and suggest ways to clean up the code?
 
 **Links:**
+
 - [Plantones v3](https://plantones-v3.netlify.app/)
 
 ---
@@ -795,7 +795,22 @@ I thought pulling in the block content was going to be way more difficult than i
 Worked on Plantones
 
 **Thoughts:**
-Got some feedback from Scott that was helpful!  I didn't think to save my queries out in separate files!  Very cool.  He also pointed out some 'best practices' I could apply.  So helpful!!!
+Got some feedback from Scott that was helpful! I didn't think to save my queries out in separate files! Very cool. He also pointed out some 'best practices' I could apply. So helpful!!!
 
 **Links:**
+
 - [Plantones v3](https://plantones-v3.netlify.app/)
+
+---
+
+## Day 64: November 2 & 3, 2022
+
+**Today's Progress:**
+Built a little 'quote of the day' project in Vanilla JS then in Next.js
+
+**Thoughts:**
+Well, I've been coding everyday for sure, but haven't been logging! I've been working on my plantones site a little, revisited eslint & prettier, and studied apis using VanillaJS and Next.js! The project pulls in data from two sources to create the background image (Nasa's Picture of the Day) and Zenquotes. I was so intimated by APIs earlier in my career, and I shouldn't have been!
+
+**Links:**
+
+- [QOTD](https://qotd-marionrose13.vercel.app/)

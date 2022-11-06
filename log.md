@@ -814,3 +814,29 @@ Well, I've been coding everyday for sure, but haven't been logging! I've been wo
 **Links:**
 
 - [QOTD](https://qotd-marionrose13.vercel.app/)
+
+---
+
+## Day 65: November 4, 2022
+
+**Today's Progress:**
+Worked on Plantones! Also did some Codewars.
+
+**Thoughts:**
+I'm going to spend the next few days finishing this up so I can start on the next project! I think I'll rebuild my Webflow portfolio next! I also did some Codewars challenges today, and updated my Github credentials via github cli and auth token! Feeling simultaneously capable and new at this hah
+
+**Links:**
+
+- [Plantones](https://plantones-v3.netlify.app/)
+
+## Day 66: November 5, 2022
+
+**Today's Progress:**
+Codewars for my full hour!
+
+**Thoughts:**
+I did my first code challenge the other day, and it was SO HARD. Like, nothing I have ever seen in the past 5 years I've been working in the web dev world. I was feeling pretty deflated, and I figure the best way to combat that is by working on my JS skills! My goal will be at least 3 challenges a day.
+
+**Links:**
+
+- No links today!

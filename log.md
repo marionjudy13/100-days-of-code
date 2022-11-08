@@ -840,3 +840,31 @@ I did my first code challenge the other day, and it was SO HARD. Like, nothing I
 **Links:**
 
 - No links today!
+
+---
+
+## Day 67: November 7, 2022
+
+**Today's Progress:**
+Codewars for 15 minutes then Plantones for like 3 hours!
+
+**Thoughts:**
+Getting so close to being finished with Plantones!! I'm feeling so much more confident, and excited to start from scratch again with the next project! Also I forgot to log this yesterday so I'm logging a day late!
+
+**Links:**
+
+- [Plantones](https://plantones-v3.netlify.app/)
+
+---
+
+## Day 68: November 8, 2022
+
+**Today's Progress:**
+Plantones and Codewars again!!
+
+**Thoughts:**
+Ran into some challenges with TailWind... Nothing crazy - but I have a hex code that is pulled in from my Sanity data, and it's a little confusing finding the best way to apply a hover state with the data! I think I can either use state and put my styles in an object and implement them with inline styles, or just add a dummy element and be done.
+
+**Links:**
+
+- [Plantones](https://plantones-v3.netlify.app/)

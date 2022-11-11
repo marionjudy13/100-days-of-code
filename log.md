@@ -868,3 +868,17 @@ Ran into some challenges with TailWind... Nothing crazy - but I have a hex code 
 **Links:**
 
 - [Plantones](https://plantones-v3.netlify.app/)
+
+---
+
+## Day 69: November 10, 2022
+
+**Today's Progress:**
+Plantones and Codewars again and again and again!!
+
+**Thoughts:**
+Everything is haaarrd today. Hitting reset, will try again tomorrow.
+
+**Links:**
+
+- [Plantones](https://plantones-v3.netlify.app/)

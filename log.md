@@ -882,3 +882,17 @@ Everything is haaarrd today. Hitting reset, will try again tomorrow.
 **Links:**
 
 - [Plantones](https://plantones-v3.netlify.app/)
+
+---
+
+## Day 70: November 11, 2022
+
+**Today's Progress:**
+Worked on Plantones pretty much all day!
+
+**Thoughts:**
+Had a good day working on the plant website. Spent some time tidying up so I can have an least an MVP! Then went through and made a little list of stuff I'd like to do and add.
+
+**Links:**
+
+- [Plantones](https://plantones-v3.netlify.app/)

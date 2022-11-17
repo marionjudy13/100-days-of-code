@@ -896,3 +896,49 @@ Had a good day working on the plant website. Spent some time tidying up so I can
 **Links:**
 
 - [Plantones](https://plantones-v3.netlify.app/)
+
+---
+
+## Day 71: November 14, 2022
+
+**Today's Progress:**
+Fixed a bug on my 'Quote of the Day' site and cleaned up some code
+
+**Thoughts:**
+I had an interview today! I think my nerves are a little off and I'm having a really hard time focusing.
+
+**Links:**
+
+- [Quote of the Day](https://qotd.vercel.app/)
+
+---
+
+## Day 72: November 15, 2022
+
+**Today's Progress:**
+Built a contact form with Next.js and SendGrid.
+
+**Thoughts:**
+My SendGrid form was NOT working out... My friend sent me the link as a state exercise, but I think he meant to send something else! No problem, I did end up learning about Web3Forms and will integrate that with Dirty Carrots tomorrow!
+
+**Links:**
+
+- No link today
+
+---
+
+## Day 73: November 16, 2022
+
+**Today's Progress:**
+Built a contact form with Web3Forms.
+
+**Thoughts:**
+I added a contact page for Dirty Carrots, and built a contact form using Web3Forms! It was a great learning exercise! I followed the Web3Forms docs (which were SO well done), and adjusted their example to my needs! I replaced the loading animation they used in their example with one from (https://mhnpd.github.io/react-loader-spinner/).
+
+I still have one little thing to figure out for the form, but it's good enough for now!
+
+I need so spend a little time filling out some of the posts!
+
+**Links:**
+
+- [Dirty Carrots](https://www.dirtycarrots.dev/contact)

@@ -942,3 +942,21 @@ I need so spend a little time filling out some of the posts!
 **Links:**
 
 - [Dirty Carrots](https://www.dirtycarrots.dev/contact)
+
+---
+
+## Day 74: November 22, 2022
+
+**Today's Progress:**
+Building the nav of a new project!
+
+**Thoughts:**
+Man, I am doing a TERRIBLE job of documenting my hour! I haven't missed a day since my last post, but I also haven't documented it. And I suppose if you don't document it, did it even happen?
+
+I've been starting a new project! I'm working on rebuilding the Tertia.team site using Sanity.io, Next.js, and TYPESCRIPT.
+
+Should be fun!
+
+**Links:**
+
+- No Links Yet

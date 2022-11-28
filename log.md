@@ -960,3 +960,17 @@ Should be fun!
 **Links:**
 
 - No Links Yet
+
+---
+
+## Day 75: November 27, 2022
+
+**Today's Progress:**
+Finished nav and build header!
+
+**Thoughts:**
+I finished the nav for Tertia's rebuild today, and started on the header! I am still feeling pretty lost with Typescript, but I'll figure it out! I can't post a link yet because my Typescript error is preventing the vercel build, but soon!
+
+**Links:**
+
+- No Links Yet
